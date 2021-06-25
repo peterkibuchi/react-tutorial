@@ -17,7 +17,6 @@
 
 ## Technologies Used
 - React
-- HTML & CSS
 
 
 ## Project Status
