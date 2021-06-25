@@ -10,7 +10,7 @@ const TableHeader = () => {
                 <th>Remove</th>
             </tr>
         </thead>
-    )
+    );
 }
 
 const TableBody = (props) => {
@@ -26,7 +26,7 @@ const TableBody = (props) => {
         );
     });
 
-    return <tbody>{rows}</tbody>
+    return <tbody>{rows}</tbody>;
 }
 
 const Table = (props) => {

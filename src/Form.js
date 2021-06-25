@@ -13,7 +13,7 @@ class Form extends Component {
 
         this.setState({
             [name]: value,
-        })
+        });
     }
 
     submitForm = () => {
@@ -46,7 +46,7 @@ class Form extends Component {
 
                 <input type="button" value="Submit" onClick={this.submitForm} />
             </form>
-        )
+        );
     }
 }
 
