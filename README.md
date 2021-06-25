@@ -1,5 +1,5 @@
 # React Tutorial
-> A simple applicaton that demonstrates fundamental concepts of *React*.
+> A simple application that demonstrates fundamental concepts of *ReactJS*.
 > Live demo [_here_](https://peterkibuchi.github.io/react-tutorial/).
 
 ## Table of Contents
@@ -11,7 +11,7 @@
 
 
 ## General Information
-- I built this application as a hands on means of learning essential *ReactJS* concepts such as JSX, components, props, state, and lifecycle.
+- I built this application as a hands on means of learning essential *React* concepts such as JSX, components, props, state, and lifecycle.
 - I also learnt how to work with form data, pull data in from an API, and deploy a React app.
 
 
